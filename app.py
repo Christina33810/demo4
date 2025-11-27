@@ -8,8 +8,8 @@ with st.sidebar:
     selected=option_menu(
         menu_title = "Menu",
         options = ["ISOM3400", "About", "Contact"],
-        icons = ["house", "cloud-upload" ,"list-task"],
-        menu_icon= "emoji-cry-fill",
+        icons = ["house", "cloud-upload","list-task"],
+        menu_icon= "cast",
         default_index=0,
     )
 
