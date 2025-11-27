@@ -9,7 +9,7 @@ with st.sidebar:
         menu_title = "Menu",
         options = ["ISOM3400", "About", "Contact"],
         icons = ["house", "cloud-upload" ,"list-task"],
-        menu_icon= "emoji-smile-fill",
+        menu_icon= "emoji-cry-fill",
         default_index=0,
     )
 
